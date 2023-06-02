@@ -32,6 +32,7 @@ English | <a href="README_zh_CN.md">简体中文</a>
 [download-latest]: https://img.shields.io/github/downloads/zhuzichu520/FluentUI/latest/total.svg "latest status"
 
 
+
 <p align=center>
 This is a beautiful FluentUI component library based on Qt QML. Currently the main branch supports Qt 6. If you want to use it in Qt 5, checkout the Qt 5 branch.
 </p>
